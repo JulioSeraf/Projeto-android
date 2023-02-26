@@ -49,6 +49,7 @@ header{
 }
 header > h1{
     color: white;
+    text-align: center;
     font-family: var(--fonte-destaque);
     font-size: 4em;
     font-weight: lighter;
